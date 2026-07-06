@@ -2,7 +2,7 @@
 
 ## Features
 
-Permettre d'avoir des typologies d'objets standard pour tous les utilisateurs et developpeurs de Dolibarr
+Permettre d'avoir des typologies d'objets standards pour tous les utilisateurs et développeurs de Dolibarr
 Par exemple pour les produits :
 - Carte grise pour les véhicules
 - Bien immobilier
@@ -17,6 +17,10 @@ Etc
 
 Site proposant des "normalisation"
 https://schema.org/
+
+## Intégration dans le coeur de Dolibarr
+
+** https://github.com/Dolibarr/dolibarr/pull/38736 **
 
 <!--
 ![Screenshot dolitypology](img/screenshot_dolitypology.png?raw=true "DoliTypology"){imgmd}
